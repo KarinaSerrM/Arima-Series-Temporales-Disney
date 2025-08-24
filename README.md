@@ -1,5 +1,4 @@
-# Análisis y modelado AR(p) de series de tiempo
-# Predicción de Precios de Acciones de Disney con ARIMA
+# Análisis y modelado AR(p) de series de tiempo de Disney
 
 Este proyecto presenta un análisis y modelado de series temporales para los precios de cierre de Walt Disney Company (DIS), aplicando técnicas estadísticas para seleccionar el mejor modelo AR(p) y evaluar su precisión.
 
